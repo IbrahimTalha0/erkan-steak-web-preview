@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <path
+    d="M20 20C10 14 3 14 1 18c-1.4 2.8 1 5 4 4.6 4-.5 7.5 1 10.8 3.4"
+    fill="url(#bullGoldGrad)"
+  />
+  <path
+    d="M44 20c10-6 17-6 19-2 1.4 2.8-1 5-4 4.6-4-.5-7.5 1-10.8 3.4"
+    fill="url(#bullGoldGrad)"
+  />
+  <path
+    d="M32 16c6.6 0 12 4.6 12 11.6 0 4.6-2.1 7.4-4.6 9.6-.9 5.5-4 8.8-7.4 8.8s-6.5-3.3-7.4-8.8c-2.5-2.2-4.6-5-4.6-9.6C20 20.6 25.4 16 32 16Z"
+    fill="url(#bullGoldGrad)"
+  />
+  <defs>
+    <linearGradient id="bullGoldGrad" x1="1" y1="14" x2="63" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E0AC48" />
+      <stop offset="1" stop-color="#B8811F" />
+    </linearGradient>
+  </defs>
+</svg>
